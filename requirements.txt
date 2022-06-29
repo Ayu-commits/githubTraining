@@ -2,3 +2,5 @@ Emoji
 Type options 
 Vibrant
 color
+
+dark mode
